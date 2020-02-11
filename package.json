@@ -1,0 +1,25 @@
+{
+  "name": "apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollographql/fullstack-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apollographql/fullstack-tutorial/issues"
+  },
+  "homepage": "https://github.com/apollographql/fullstack-tutorial#readme",
+  "dependencies": {
+    "apollo-server": "^2.10.0",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.6.0",
+    "mysql": "^2.18.1"
+  }
+}
